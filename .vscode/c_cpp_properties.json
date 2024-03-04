@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "name": "PROS Project",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "c:\\Users\\Vigne\\Downloads\\EZ-Template-Example-Project-v3.0.0\\include",
+        "c:\\Users\\agent\\Downloads\\Over-Under-Main-main (7)\\Over-Under-Main-main\\(Skills) EZ Template\\include"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "c:\\Users\\agent\\AppData\\Roaming\\Code\\User\\globalStorage\\sigbots.pros\\install\\pros-toolchain-windows\\usr\\bin\\arm-none-eabi-g++",
+      "cStandard": "gnu11",
+      "cppStandard": "gnu++20",
+      "intelliSenseMode": "gcc-arm",
+      "compileCommands": "c:\\Users\\agent\\Downloads\\Over-Under-Main-main (7)\\Over-Under-Main-main\\(Skills) EZ Template\\compile_commands.json",
+      "browse": {
+        "path": [
+          "c:\\Users\\agent\\Downloads\\Over-Under-Main-main (7)\\Over-Under-Main-main\\(Skills) EZ Template"
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+      }
+    }
+  ],
+  "version": 4
+}
